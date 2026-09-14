@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm [ZAID KHAN] 👋
+# Hi, I'm ZAID KHAN 👋
 
-### [Degree / Year] | [Your Major / Field]
-*[Netaji Subhash Engineering College]*
+### Pre-final year BTech undergrad | Information Technology
+Netaji Subhash Engineering College
 
 <br/>
 
