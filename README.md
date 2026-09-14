@@ -2,14 +2,14 @@
 
 # Hi, I'm ZAID KHAN 👋
 
-### Pre-final year BTech undergrad | Information Technology
+### Pre-final year B.Tech undergrad | Information Technology
 Netaji Subhash Engineering College
 
 <br/>
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Enthusiast;Full+Stack+Engineer;Next.js+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Information+%2F+Technology;Full+Stack+Engineer;Next.js+Specialist" alt="Typing SVG" />
 </a>
 
 </div>
@@ -25,7 +25,7 @@ Netaji Subhash Engineering College
 
 #### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ---
