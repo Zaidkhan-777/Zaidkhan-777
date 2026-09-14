@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [ZAID KHAN] 👋
 
 ### [Degree / Year] | [Your Major / Field]
-*[Your College / University Name]*
+*[Netaji Subhash Engineering College]*
 
 <br/>
 
@@ -20,19 +20,19 @@
 
 #### 🪟 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
 #### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql" />
 </p>
 
 ---
 
 ### 🗣️ Programming Languages Known
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 ---
