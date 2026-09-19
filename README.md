@@ -8,17 +8,14 @@
 
 <br/>
 
-<!-- Neon Multi-Line Code Matrix Animation -->
+<!-- Unique Cyan-to-Blue Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&multiline=true&center=true&vCenter=true&width=620&height=70&lines=>_++MERN+Stack+Developer;++Problem+Solving+Enthusiast;++Architecting+Full-Stack+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Problem+Solving+Enthusiast;Full+Stack+Web+Developer;Building+Scalable+Applications" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Interactive Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Zaidkhan-777&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
+
+
 
 ---
 
