@@ -10,7 +10,7 @@
 
 <!-- Neon Multi-Line Code Matrix Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&multiline=true&center=true&vCenter=true&width=620&height=70&lines=>_++MERN+Stack+Developer;>_++Problem+Solving+Enthusiast;>_++Architecting+Full-Stack+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&multiline=true&center=true&vCenter=true&width=620&height=70&lines=>_++MERN+Stack+Developer;++Problem+Solving+Enthusiast;++Architecting+Full-Stack+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
