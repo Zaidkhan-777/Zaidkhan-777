@@ -10,7 +10,7 @@
 
 <!-- Unique Cyan-to-Blue Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Problem+Solving+Enthusiast;Full+Stack+Web+Developer;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Problem+Solving+Enthusiast;Full+Stack+Web+Developer" alt="Typing SVG" />
 </a>
 
 </div>
